@@ -1,4 +1,4 @@
-## YOU LAID ASIDE YOUR MAJESTY
+## WELCOME, YOUR MAJESTY
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
