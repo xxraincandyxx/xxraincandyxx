@@ -122,9 +122,8 @@ In construction...
     srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true" />
   </picture>
-
   <picture>
     <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true&include_all_commits&theme=dark"
@@ -134,7 +133,7 @@ In construction...
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true" />
   </picture>
 </div>
 
