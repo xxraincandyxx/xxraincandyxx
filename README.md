@@ -58,6 +58,12 @@ In construction...
 
 ## Featured Projects
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
+</picture>
+
 In construction...
 
 <!--
@@ -106,15 +112,30 @@ In construction...
 
 ## Github Statistics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-</picture>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&theme=dark"/>
+  <picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true" />
+  </picture>
+
+  <picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true&include_all_commits&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true" />
+  </picture>
 </div>
 
 ## Social Media
