@@ -3,20 +3,20 @@
 # ## WELCOME, YOUR MAJESTY
 ### AIsyntheticdata Researcher & AI Developer
 
-![](https://img.shields.io/badge/Focus-Artificial_General_Intelligence-BE2EDD)
-![](https://img.shields.io/badge/Role-AI_Product_Manager-20B2AA)
+![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
+![](https://img.shields.io/badge/Role-AI_Researcher-20B2AA)
 
 <p>
-  <a href="https://x.com/zjrwtx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
-  <a href="mailto:3038880699@qq.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://github.com/zjrwtx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://x.com/xxraincandyxx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
+  <a href="mailto:xxraincandyxx@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://github.com/xxraincandyxx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <br/>
   <!--<a href="https://www.zhihu.com/people/30-95-6-63">Zhihu:XXX</a>-->
   <a href="https://x.com/zjrwtx">WeChat: xxraincandyxx</a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/zjrwtx?style=social)](https://github.com/zjrwtx)
-![Profile Views](https://komarev.com/ghpvc/?username=zjrwtx&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/xxraincandyxx?style=social)](https://github.com/zjrwtx)
+![Profile Views](https://komarev.com/ghpvc/?username=xxraincandyxx&color=blueviolet)
 
 </div>
 
@@ -24,11 +24,15 @@
 
 > "God is dead, thus spake Zarathustra"
 
+<!--
 - 🔭 正在从事多模态数据合成的研究
 - 🚀 准备做几个面向大学生的AI应用
 - 🌱 是个ENTJ水瓶座的大四在读医学生
 - 👯 寻找 AI 领域的合作机会
 - 🎯 目标：实现多模态数据的scaling law
+-->
+
+In construction...
 
 ## Tech Stack
 
