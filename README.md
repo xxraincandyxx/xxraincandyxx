@@ -159,7 +159,7 @@ In construction...
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img height="160em"/>
+    <img height="180em"/>
   </picture>
   <picture>
     <source
@@ -170,7 +170,7 @@ In construction...
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img height="160em"/>
+    <img height="180em"/>
   </picture>
 </div>
 
