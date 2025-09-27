@@ -1,6 +1,6 @@
 <div align="center">
 
-# WELCOME, YOUR MAJESTY
+# Welcome, My Lo.
 ### AI Researcher && Computer Scientist
 
 ![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
@@ -138,27 +138,39 @@ In construction...
 ## Github Statistics
 
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  </picture> -->
+
+  <picture>
+    <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx&theme=github-compact"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height="160em"/>
   </picture>
   <picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true&include_all_commits&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true&include_all_commits&theme=shadow_green"
     media="(prefers-color-scheme: dark)"
   />
     <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true" />
+    <img height="160em"/>
   </picture>
 </div>
 
@@ -167,9 +179,6 @@ In construction...
 - 📱 WeChat: xxraincandyxx
 - 🐦 Twitter：[@xxraincandyxx](https://x.com/xxraincandyxx)
 - 📫 Email：xxraincandyxx@gmail.com
-
-## Contribution Timeline
-![](https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx&theme=github)
 
 ---
 
