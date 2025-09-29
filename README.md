@@ -163,11 +163,11 @@ In construction...
   </picture>
   <picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true&include_all_commits&theme=shadow_green"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green"
     media="(prefers-color-scheme: dark)"
   />
     <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=12&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
     <img height="180em"/>
