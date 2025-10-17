@@ -102,7 +102,7 @@ In construction...
       media="(prefers-color-scheme: dark)"
       srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
     />
-    <img height="180em"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
   </picture>
 </div>
 
