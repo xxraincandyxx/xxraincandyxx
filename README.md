@@ -91,6 +91,21 @@ In construction...
 
 In construction...
 
+<h2>🏆 MarkFury Github Profile Trophy</h2>
+<div align="center">
+  <picture>
+    <source
+    srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height="180em"/>
+  </picture>
+</div>
+
 <!--
 ### 🎯 AI 应用
 <table>
