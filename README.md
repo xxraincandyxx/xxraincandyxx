@@ -95,13 +95,13 @@ In construction...
 <div align="center">
   <picture>
     <source
-    srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
-    media="(prefers-color-scheme: dark)"
-  />
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true"
+    />
     <source
-    srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
+    />
     <img height="180em"/>
   </picture>
 </div>
