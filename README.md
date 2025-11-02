@@ -96,13 +96,13 @@ In construction...
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true"
+      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true"
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
+      srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
     />
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=3&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
   </picture>
 </div>
 
