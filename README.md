@@ -5,6 +5,7 @@
 
 ![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
 ![](https://img.shields.io/badge/Role-AI_Researcher-20B2AA)
+[![Blog Netlify Status](https://api.netlify.com/api/v1/badges/5cd3a93d-99e0-475e-aa5d-c64a3835404a/deploy-status)](https://app.netlify.com/projects/ver1tas/deploys)
 
 <p>
   <a href="https://x.com/xxraincandyxx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=black"/></a>
