@@ -44,10 +44,11 @@ In construction...
 ## Tech Stack
 
 <p align="center">
-<span style="font-size: 1.50em;">🤖 AI & Deep Learning</span>
+<span style="font-size: 1.2em; font-weight: bold;">🤖 AI & Deep Learning</span>
 </p>
 
 <div style="text-align: center;">
+<div align="center">
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -58,10 +59,11 @@ In construction...
 </div>
 
 <p align="center">
-<span style="font-size: 1.50em;">🎨 Web Development</span>
+<span style="font-size: 1.2em; font-weight: bold;">🎨 Web Development</span>
 </p>
 
 <div style="text-align: center;">
+<div align="center">
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -72,10 +74,11 @@ In construction...
 </div>
 
 <p align="center">
-<span style="font-size: 1.50em;">🛠️ Development Tools</span>
+<span style="font-size: 1.2em; font-weight: bold;">🛠️ Development Tools</span>
 </p>
 
 <div style="text-align: center;">
+<div align="center">
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
