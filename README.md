@@ -21,6 +21,8 @@
 
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
+
 ## About Me 
 
 <p align="center">
