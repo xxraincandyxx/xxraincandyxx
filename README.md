@@ -20,6 +20,13 @@
 
 </div>
 
+<div style="text-align: center;">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=360&size=18&duration=3600&pause=888&color=F776CDEE&center=true&width=480&lines=indeed%2C+the+uppermost+is+from+the+lowermost;and+the+lowermost+is+from+the+uppermost)](https://git.io/typing-svg)
+
+</div>
+
 ## About Me 
 
 <p align="center">
@@ -99,13 +106,49 @@ I walk a singular path: a scholar of the Silicon Mind, majored in **Artificial I
 
 ## 📜 Chronicles (Statistics)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
 
-<br/>
+  <picture>
+    <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx&theme=github-compact"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height="180em"/>
+  </picture>
+  <picture>
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+    <img height="180em"/>
+  </picture>
+  
+  <br/>
+
+  <h2>🏆 MarkFury Github Profile Trophy</h2>
+  <div align="center">
+    <picture>
+        <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true"
+        />
+        <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
+        />
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
+    </picture>
+  </div>
+
+</div>
 
 ### *"Thus spoke the code."*
 
