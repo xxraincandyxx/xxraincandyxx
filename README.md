@@ -13,7 +13,7 @@
   <a href="https://github.com/xxraincandyxx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
   <br/>
   <!--<a href="https://www.zhihu.com/people/30-95-6-63">Zhihu:XXX</a>-->
-  <a href="https://x.com/zjrwtx">WeChat: xxraincandyxx</a>
+  <a href="https://x.com/">WeChat: xxraincandyxx</a>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/xxraincandyxx?style=social)](https://github.com/zjrwtx)
@@ -32,7 +32,7 @@
 
 <p align="center">
   <span style="font-size: 1.25em; color: #FFD700;">
-    ☀️ ~~~ Long May the Sun Shine! ~~~~ ☀️
+    ☀️ ~~~~ Long May the Sun Shine! ~~~~ ☀️
   </span>
 </p>
 
