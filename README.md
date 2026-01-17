@@ -21,7 +21,12 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Here's+my+personal+infomation:)](https://git.io/typing-svg)
+<div style="text-align: center;">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=360&size=18&duration=3600&pause=888&color=F776CDEE&center=true&width=480&lines=indeed%2C+the+uppermost+is+from+the+lowermost;and+the+lowermost+is+from+the+uppermost)](https://git.io/typing-svg)
+
+</div>
 
 ## About Me 
 
