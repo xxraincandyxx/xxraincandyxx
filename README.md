@@ -150,6 +150,6 @@ I walk a singular path: a scholar of the Silicon Mind, majored in **Artificial I
 
 </div>
 
-### *"Thus spoke the code."*
+### _"God is dead. Thus spake Zarathustra."_
 
 </div>
