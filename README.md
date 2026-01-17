@@ -158,6 +158,10 @@ I walk a singular path: a scholar of the Silicon Mind, majored in **Artificial I
 
 </div>
 
-### _"God is dead. Thus spake Zarathustra."_
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+
+<!-- ### _"God is dead. Thus spake Zarathustra."_ -->
 
 </div>
