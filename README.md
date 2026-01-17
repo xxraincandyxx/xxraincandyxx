@@ -59,7 +59,7 @@ I walk a singular path: a scholar of the Silicon Mind, majored in **Artificial I
 
 <div align="center">
 
-### 🔮 Languages
+### � The Primal Scripts (Languages)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ### 🔮 The Arcane Arts (AI & Deep Learning)
