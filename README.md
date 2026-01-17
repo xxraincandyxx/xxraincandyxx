@@ -31,7 +31,7 @@
 
 <p align="center">
   <span style="font-size: 1.25em; color: #FFD700;">
-    ☀️ ~~~ Long May the Sun Shine! ~~~~ ☀️
+    ☀️ ~~~~ Long May the Sun Shine! ~~~~ ☀️
   </span>
 </p>
 
