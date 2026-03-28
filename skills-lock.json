@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "baoyu-format-markdown": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "dee3e4a2ad07f802475ccab941760997b958475e7672af408acf9d0929a01b80"
+    },
+    "baoyu-markdown-to-html": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "computedHash": "0cd76fd9127ac8d6cbba71e2c2b6bffa8ce804dc47ab95742557843661863dbe"
+    },
+    "mdpreview": {
+      "source": "tdimino/claude-code-minoan",
+      "sourceType": "github",
+      "computedHash": "2ff09555ab10bf8699a34b583688ac2886e36c051b50120b7d7543bf1511e06c"
+    },
+    "obsidian-markdown": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "cacc9058a35ad3fd4985b4c31121bff8202f1337c39808c1326ded6a19a7915f"
+    }
+  }
+}

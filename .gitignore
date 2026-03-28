@@ -1,18 +1,20 @@
-# Redundant OS files
+# macOS
 .DS_Store
 
-.DS_Store
-
-*.codebuddy/
+# AI agent tool config directories
+.adal/
+.augment/
+.claude/
+.codebuddy/
 .commandcode/
 .continue/
-.crush
+.crush/
 .factory/
 .goose/
 .junie/
 .kilocode/
 .kiro/
-.kode
+.kode/
 .mcpjam/
 .mux/
 .neovate/
@@ -23,12 +25,6 @@
 .roo/
 .vibe/
 .zencoder/
+
+# Skills CLI symlinks (point to .agents/skills/)
 skills/
-skills-lock.json
-
-.agents
-.obsidian-markdown
-baoyu-format-markdown
-baoyu-markdown-to-html
-mdpreview
-
