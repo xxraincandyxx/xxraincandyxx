@@ -1,5 +1,34 @@
 # Redundant OS files
 .DS_Store
 
-# Reference files
-# refs.md
+.DS_Store
+
+*.codebuddy/
+.commandcode/
+.continue/
+.crush
+.factory/
+.goose/
+.junie/
+.kilocode/
+.kiro/
+.kode
+.mcpjam/
+.mux/
+.neovate/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.roo/
+.vibe/
+.zencoder/
+skills/
+skills-lock.json
+
+.agents
+.obsidian-markdown
+baoyu-format-markdown
+baoyu-markdown-to-html
+mdpreview
+
