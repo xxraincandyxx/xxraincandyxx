@@ -1,167 +1,184 @@
 <div align="center">
 
-# Welcome, My Lo.
-### AI Researcher & Artisan of Code
+# xxraincandyxx
 
-![](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD)
-![](https://img.shields.io/badge/Role-AI_Researcher-20B2AA)
+### AI Researcher & Systems Artisan
+
+![Focus: AI](https://img.shields.io/badge/Focus-Artificial_Intelligence-BE2EDD?style=flat-square)
+![Role: Researcher](https://img.shields.io/badge/Role-Researcher-20B2AA?style=flat-square)
 [![Blog Netlify Status](https://api.netlify.com/api/v1/badges/5cd3a93d-99e0-475e-aa5d-c64a3835404a/deploy-status)](https://app.netlify.com/projects/ver1tas/deploys)
 
 <p>
-  <a href="https://x.com/xxraincandyxx"><img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=x&logoColor=black"/></a>
-  <a href="mailto:xxraincandyxx@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://github.com/xxraincandyxx"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <br/>
-  <a href="https://x.com/zjrwtx">WeChat: xxraincandyxx</a>
+  <a href="https://github.com/xxraincandyxx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/xxraincandyxx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://blog.000666.com/"><img src="https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white"/></a>
+  <a href="mailto:xxraincandyxx@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/xxraincandyxx?style=social)](https://github.com/zjrwtx)
-![Profile Views](https://komarev.com/ghpvc/?username=xxraincandyxx&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/xxraincandyxx?style=social)](https://github.com/xxraincandyxx)
+![Profile views](https://komarev.com/ghpvc/?username=xxraincandyxx&color=blueviolet&style=flat-square)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=3600&pause=888&color=F776CDEE&center=true&width=560&lines=indeed%2C+the+uppermost+is+from+the+lowermost;and+the+lowermost+is+from+the+uppermost)](https://git.io/typing-svg)
 
 </div>
-
-<div style="text-align: center;">
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&weight=360&size=18&duration=3600&pause=888&color=F776CDEE&center=true&width=480&lines=indeed%2C+the+uppermost+is+from+the+lowermost;and+the+lowermost+is+from+the+uppermost)](https://git.io/typing-svg)
-
-</div>
-
-## About Me 
-
-<p align="center">
-  <span style="font-size: 1.25em; color: #FFD700;">
-    ☀️ ~~~~ Long May the Sun Shine! ~~~~ ☀️
-  </span>
-</p>
 
 ---
 
-## 📜 The Proem (About Me)
+## <img src="https://cdn.simpleicons.org/bookstack/4A90D9" width="20" height="20" /> About Me
 
-<!-- *"To seek the Truth, amidst the code and wire,*  
-*Like Zarathustra climbing up the mount;*  
-*With Will to Power, and a soul of fire,*  
-*I drink deeper from the Muses' fount."* -->
+Greetings, traveler. I am an **AI Researcher** and **Systems Programmer** — a scholar of the Silicon Mind, currently exploring the frontiers of **multimodal data scaling**, **LLM training infrastructure**, and **embodied intelligence**.
 
-Greetings, traveler. I am an **AI Researcher** and **Computer Scrivener** from the **Lands Between**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I walk a singular path: a scholar of the Silicon Mind, majored in **Artificial Intelligence**.
+**Research Interests**
 
-*   🔭 **The Quest**: To construct the **Scaling Law** of Multimodal Data.
-*   🌱 **The Seed**: An **Undergraduate** seeking the **Truth** in patterns.
-*   👯 **The Alliance**: Seeking kindred spirits in the realm of AI.
-*   🧠 **The Philosophy**: A follower of **Heidegger's** *Dasein* and **Nietzsche's** *Übermensch*.
+- Multimodal Data Scaling Laws
+- LLM Training & Inference Optimization
+- Vision-Language-Action Models
+- Multi-Agent AI Systems
+- Embodied AI & Robotics
 
-## ⚔️ The Armoury (Tech Stack)
+</td>
+<td width="50%" valign="top">
 
-*"For what is a Knight without his steel? Thus I present the tools of my craft."*
+**Currently Working On**
+
+- RoboCup@Home 2026 — ROS2 service robot
+- LLM training framework ([Helios](https://github.com/xxraincandyxx/Helios))
+- Parallel AI agent orchestration ([flux](https://github.com/xxraincandyxx/flux))
+- Vision Transformers in C++ ([Ori](https://github.com/xxraincandyxx/Ori))
+
+</td>
+</tr>
+</table>
+
+> *"To seek the Truth, amidst the code and wire; With Will to Power, and a soul of fire."*
+
+---
+
+## <img src="https://cdn.simpleicons.org/coderwall/2D76BB" width="20" height="20" /> Tech Stack
 
 <div align="center">
 
-### ✒️ The Primal Scripts (Languages)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 🔮 The Arcane Arts (AI & Deep Learning)
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LibTorch](https://img.shields.io/badge/LibTorch-EE4C2C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-00A1E4?style=for-the-badge&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🛠️ The Smithy (Cyber Tools)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Systems & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🕸️ The Web Weaved (Development)
+### Web & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+
+### Editor & Tools
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-7552CC?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
-## 🏆 The Great Works (Projects)
+---
 
-*"Lo! The monuments built by hand and mind."*
+## <img src="https://cdn.simpleicons.org/rocket/FF5722" width="20" height="20" /> Featured Projects
 
-| The Artifact | The Legend |
-| :--- | :--- |
-| **[Archivolt](https://github.com/xxraincandyxx/xxraincandyxx)** | A grand benchmark to test the wits of the **Large Language Models**, measuring their reason against the OpenAI SDK standard. |
-| **[AetherCrypt](https://github.com/xxraincandyxx/xxraincandyxx)** | A cipher of **Python**, shrouding `.json` files in the mists of **Fernet encryption**, keeping secrets safe from prying eyes. |
-| **[eva](https://github.com/xxraincandyxx/xxraincandyxx)** | A local spirit of AI, bound by **Flask** and **React**, gifting sight (camera streaming) to the machine. |
-| **[0x2e](https://github.com/xxraincandyxx/xxraincandyxx)** | The order of my digital kingdom. **Dotfiles** managed by **Stow** to tame the chaos of **Neovim**, **Zsh**, and **Kitty**. |
-<!-- | **[Yijian Agent](https://github.com/zjrwtx/Yijian-Agent)** | *From days of yore:* The first enterprise-grade AI Agent system for the healers (hospital labs). | -->
+### Core Research & Infrastructure
 
-## 🌩️ Notes from the Ether
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**flux**](https://github.com/xxraincandyxx/flux) | Massively parallel AI coding swarm — 512+ local agents orchestrated by a Rust hypervisor with Git worktree isolation | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Helios**](https://github.com/xxraincandyxx/Helios) | Comprehensive LLM toolkit — LoRA fine-tuning, MoE training (Megatron-LM), vLLM/SGLang inference, 1000+ eval benchmarks | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**Amadeus**](https://github.com/xxraincandyxx/Amadeus) | AI Agent SDK in Rust — multi-provider LLM, tool system, ratatui TUI, HTTP API, multi-agent supervisor/worker coordination | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white) |
+| [**Ori**](https://github.com/xxraincandyxx/Ori) | Vision Transformer from scratch in C++ — MoE MLPs, RoPE, KV cache, relative attention, model visualization & graph tracing | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![LibTorch](https://img.shields.io/badge/LibTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [**EVA**](https://github.com/xxraincandyxx/EVA) | Vision-Language-Action system for edge robotics — YOLO/SNN perception on Xilinx DPU, local LLM, C++ kinematics for robotic arm | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**metaphor**](https://github.com/xxraincandyxx/metaphor) | LLM experimentation lab — modular architecture, DDP training, mixed precision, extensible model registry (Llama 2) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
-*   **Style**: I hold fast to the Order of _Google Style_ in C++. Let no camel walk where the snake should slither.
-*   **Melody**: Whilst I weave code, only the symphonies of **Mozart** and **Beethoven** grace mine ears.
-*   **Creation**: Even now, I forge a **ROS2** soul for a mechanical hound, destined for the **Robocup** of 2026.
+### AI Agents & Applications
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**moscos**](https://github.com/xxraincandyxx/moscos) | Multi-agent AI social simulation — Phaser.js world with autonomous agents, A* pathfinding, local LLM dialog, Drama Mode | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-FFD700?style=flat-square&logo=boardgamer&logoColor=black) |
+| [**argus**](https://github.com/xxraincandyxx/argus) | macOS floating AI desktop assistant with screen awareness — always-on-top chat via Electron with multimodal prompts | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
+| [**robocup**](https://github.com/xxraincandyxx/robocup) | RoboCup@Home agent — LLM-driven multi-step reasoning with ReAct loop, 2D grid navigation, object manipulation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**aliagent**](https://github.com/xxraincandyxx/aliagent) | Pixel art sprite sheet creator — multimodal agent that transforms reference images into animated sprite sheets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+
+### Systems & Tools
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**rius**](https://github.com/xxraincandyxx/rius) | Sandboxed Python execution environment — REST API (Axum), SQLite persistence, pluggable warden backends (Docker, nsjail) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white) |
+| [**Archivolt**](https://github.com/xxraincandyxx/Archivolt) | LLM evaluation benchmarking suite — LoCoMo, LongBench, EQ-Bench datasets with OpenAI-compatible model endpoints | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**OmniC**](https://github.com/xxraincandyxx/OmniC) | Self-contained C utility library with Doxygen docs, examples, and structured build system | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) |
+| [**0x2e**](https://github.com/xxraincandyxx/0x2e) | Dotfiles managed with GNU Stow — Neovim, Kitty, Zsh, Docker, macOS defaults | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [**Veritas**](https://github.com/xxraincandyxx/Veritas) | Personal blog — Hugo/PaperMod, LaTeX math support, deployed on Netlify | ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white) |
+
+---
+
+## <img src="https://cdn.simpleicons.org/musicbrainz/FF5722" width="20" height="20" /> Notes
+
+- **Style**: Google Style in C++. Snake_case where the camel cannot tread.
+- **Philosophy**: A follower of Heidegger's *Dasein* and Nietzsche's *Übermensch*.
+- **Melody**: Mozart and Beethoven whilst weaving code.
+- **Forge**: Building a ROS2 soul for a mechanical hound — RoboCup 2026.
 
 ---
 
 <div align="center">
 
-## 📜 Chronicles (Statistics)
+## <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="20" height="20" /> Statistics
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxraincandyxx/xxraincandyxx/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br/>
+<br/>
 
-  <picture>
-    <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx&theme=github-compact"
-    media="(prefers-color-scheme: dark)"
-  />
-    <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img height="180em"/>
-  </picture>
-  <picture>
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green"
-    media="(prefers-color-scheme: dark)"
-  />
-    <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-    <img height="180em"/>
-  </picture>
-  
-  <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx&theme=github-compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xxraincandyxx" />
+  <img height="180em" alt="activity graph" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true&include_all_commits&theme=shadow_green" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xxraincandyxx&layout=compact&langs_count=8&show_icons=true" />
+  <img height="180em" alt="top languages" />
+</picture>
 
-  <h2>🏆 MarkFury Github Profile Trophy</h2>
-  <div align="center">
-    <picture>
-        <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true"
-        />
-        <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"
-        />
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
-    </picture>
-  </div>
+<br/>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura" />
+  <img height="180em" alt="trophies" src="https://github-profile-trophy.vercel.app/?username=xxraincandyxx&column=4&rank=-C,-B&no-bg=true&no-frame=true&theme=aura"/>
+</picture>
 
-<br>
+<br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-
-<!-- ### _"God is dead. Thus spake Zarathustra."_ -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="random quote" />
 
 </div>
