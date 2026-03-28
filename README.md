@@ -26,7 +26,7 @@
 
 ## <img src="https://cdn.simpleicons.org/bookstack/4A90D9" width="20" height="20" /> About Me
 
-Greetings, traveler. I am an **AI Researcher** and **Systems Programmer** — a scholar of the Silicon Mind, currently exploring the frontiers of **multimodal data scaling**, **LLM training infrastructure**, and **embodied intelligence**.
+**AI Researcher** and **Systems Programmer** exploring **multimodal data scaling**, **LLM training infrastructure**, and **embodied intelligence**.
 
 <table>
 <tr>
@@ -96,7 +96,7 @@ Greetings, traveler. I am an **AI Researcher** and **Systems Programmer** — a 
 
 ### Editor & Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-7552CC?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-7552CC?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
@@ -120,7 +120,7 @@ Greetings, traveler. I am an **AI Researcher** and **Systems Programmer** — a 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**moscos**](https://github.com/xxraincandyxx/moscos) | Multi-agent AI social simulation — Phaser.js world with autonomous agents, A* pathfinding, local LLM dialog, Drama Mode | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-FFD700?style=flat-square&logo=boardgamer&logoColor=black) |
+| [**moscos**](https://github.com/xxraincandyxx/moscos) | Multi-agent AI social simulation — Phaser.js world with autonomous agents, A* pathfinding, local LLM dialog, Drama Mode | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Phaser](https://img.shields.io/badge/Phaser-FFD700?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=black) |
 | [**argus**](https://github.com/xxraincandyxx/argus) | macOS floating AI desktop assistant with screen awareness — always-on-top chat via Electron with multimodal prompts | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
 | [**robocup**](https://github.com/xxraincandyxx/robocup) | RoboCup@Home agent — LLM-driven multi-step reasoning with ReAct loop, 2D grid navigation, object manipulation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**aliagent**](https://github.com/xxraincandyxx/aliagent) | Pixel art sprite sheet creator — multimodal agent that transforms reference images into animated sprite sheets | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
@@ -137,7 +137,7 @@ Greetings, traveler. I am an **AI Researcher** and **Systems Programmer** — a 
 
 ---
 
-## <img src="https://cdn.simpleicons.org/musicbrainz/FF5722" width="20" height="20" /> Notes
+## <img src="https://cdn.simpleicons.org/wrench/6C7C4B" width="20" height="20" /> Notes
 
 - **Style**: Google Style in C++. Snake_case where the camel cannot tread.
 - **Philosophy**: A follower of Heidegger's *Dasein* and Nietzsche's *Übermensch*.
