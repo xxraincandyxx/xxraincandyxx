@@ -56,8 +56,6 @@
 
 > *"To seek the Truth, amidst the code and wire; With Will to Power, and a soul of fire."*
 
----
-
 ## <img src="https://cdn.simpleicons.org/coderwall/2D76BB" width="20" height="20" /> Tech Stack
 
 <div align="center">
